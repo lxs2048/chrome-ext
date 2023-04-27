@@ -4,6 +4,6 @@
   "version": "0.0.1",
   "action":{
     "default_title": "My Extension",
-    "default_popup": "index.html"
+    "default_popup": "popup.html"
   }
 }
